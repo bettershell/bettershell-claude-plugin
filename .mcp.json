@@ -1,0 +1,5 @@
+{
+  "mcpServers": {
+    "bettershell": { "type": "http", "url": "https://bettershell.ai/mcp" }
+  }
+}
