@@ -10,11 +10,11 @@ Every résumé BetterShell makes on a connected account is saved as an applicati
 ## Keeping it current
 
 - When they mention news ("I applied", "they called", "second round Thursday", "rejected"), record it with `update_application`. If two applications at one company could match, ask which.
-- When they ask how it's going, `job_search` returns the stages, the chart and the facts.
+- When they ask how it's going, `list_applications` returns the stages, the chart and the facts.
 
 ## Follow-ups
 
-`job_search` lists applications that have waited ten days or more with no reply. Offer a short, specific follow-up note for each, written from the résumé that was sent (`read_resume` on its link). Several applications at one employer are worth pointing out: the same team may see them all. With only a few applications, any pattern is a hint, and say so.
+`list_applications` lists applications that have waited ten days or more with no reply. Offer a short, specific follow-up note for each, written from the résumé that was sent (`read_resume` on its link). Several applications at one employer are worth pointing out: the same team may see them all. With only a few applications, any pattern is a hint, and say so.
 
 ## Interview prep
 
