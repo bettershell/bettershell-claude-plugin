@@ -18,7 +18,7 @@
   "icon": ".claude-plugin/icon.png",
   "privacyPolicyUrl": "https://bettershell.ai/privacy",
   "documentationUrl": "https://bettershell.ai/bettershell-in-chatgpt-and-claude",
-  "supportUrl": "mailto:support@bettershell.ai",
+  "supportUrl": "https://bettershell.ai/bettershell-in-chatgpt-and-claude",
   "termsOfServiceUrl": "https://bettershell.ai/terms",
   "repository": "https://github.com/bettershell/bettershell-claude-plugin"
 }
