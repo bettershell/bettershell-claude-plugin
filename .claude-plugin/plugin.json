@@ -2,8 +2,18 @@
   "name": "bettershell",
   "version": "1.0.0",
   "description": "BetterShell, the résumé builder: tailored one-page résumés as finished PDFs, honest reviews from measurements of the page, a saved profile built by interview, and a job search kept as you talk.",
-  "author": { "name": "BetterShell", "url": "https://bettershell.ai" },
+  "author": {
+    "name": "BetterShell",
+    "url": "https://bettershell.ai"
+  },
   "homepage": "https://bettershell.ai/bettershell-in-chatgpt-and-claude",
   "license": "MIT",
-  "keywords": ["resume", "cv", "job search", "interview"]
+  "keywords": [
+    "resume",
+    "cv",
+    "job search",
+    "interview"
+  ],
+  "icon": "icon.png",
+  "privacyPolicyUrl": "https://bettershell.ai/privacy"
 }
