@@ -14,6 +14,6 @@
     "job search",
     "interview"
   ],
-  "icon": "icon.png",
+  "icon": ".claude-plugin/icon.png",
   "privacyPolicyUrl": "https://bettershell.ai/privacy"
 }
